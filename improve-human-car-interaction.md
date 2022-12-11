@@ -8,5 +8,5 @@ license_text: http://humancarinteraction.com/
 categories:
   - Έξυπνες διεπαφές
 tags:
-  - Ανθρωπομορφισμός
+  - Μεταφορές
 ---
