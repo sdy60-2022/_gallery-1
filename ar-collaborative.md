@@ -1,6 +1,6 @@
 ---
 author: gregtsag
-image_url: /ar-collaborative.png
+image_url: /images/ar-collaborative.jpg
 title: Interaction in a collaborative augmented reality environment
 year: 1992 
 caption: AR για συμμετοχική διάδραση. 

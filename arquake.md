@@ -1,6 +1,6 @@
 ---
 author: gregtsag
-image_url: arquake.png
+image_url: /images/arquake.jpg
 title: ARQuake
 year: 1999 
 caption: Παιχνίδι επαυξημένης πραγματικότητας. 
