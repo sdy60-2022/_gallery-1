@@ -2,7 +2,7 @@
 author: sotkot
 title: Google Glass
 year: 2013
-image_url: /images/google-glass.png
+image_url: /images/google\-glass.png
 caption: 'Το Glass, είναι μια μάρκα έξυπνων γυαλιών που αναπτύχθηκε από την Google, συγκεκριμένα από την X (προηγουμένως Google X),
 με στόχο την παραγωγή ενός πανταχού παρόντος υπολογιστή.
 Το Glass εμφανίζει πληροφορίες στον χρήστη χρησιμοποιώντας μια head-up οθόνη ενώ υπάρχει δυνατότητα επικοινωνίας
